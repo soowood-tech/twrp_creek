@@ -1,0 +1,227 @@
+qcom_pm8008-regulator.ko:
+audio_prm_dlkm.ko: spf_core_dlkm.ko gpr_dlkm.ko snd_event_dlkm.ko q6_notifier_dlkm.ko q6_pdr_dlkm.ko
+goodix_fp.ko:
+qce50_dlkm.ko: sps_drv.ko
+soc_sleep_stats.ko:
+cpufreq_userspace.ko:
+qcom-smb1398-charger.ko:
+smp2p_sleepstate.ko:
+xm_adapter_class.ko:
+debugcc-khaje.ko:
+eud.ko:
+qcom_spss.ko: mdt_loader.ko
+stm_p_basic.ko: stm_core.ko
+qcom-dload-mode.ko:
+qcedev-mod_dlkm.ko: qce50_dlkm.ko sps_drv.ko
+nxp-nci.ko: smcinvoke_dlkm.ko qseecom_dlkm.ko
+rpm_smd_cooling_device.ko:
+mbhc_dlkm.ko: fsa4480-i2c.ko ucsi_glink.ko pmic_glink.ko
+cpu_hotplug.ko:
+qcom_aoss.ko:
+coresight.ko:
+rndisipam.ko: ipam.ko gsim.ko qcom_va_minidump.ko ipa_fmwk.ko mdt_loader.ko
+rpm_master_stat.ko:
+qcom_tsens.ko:
+q6_notifier_dlkm.ko: q6_pdr_dlkm.ko
+tcpc_rt1711h.ko: tcpc_class.ko class-dual-role.ko
+rpm-smd-debug.ko:
+pm8941-pwrkey.ko:
+guestvm_loader.ko:
+sipa_dlkm.ko:
+qcom_rpm.ko:
+coresight-dummy.ko: coresight.ko
+usb_f_gsi.ko: ipa_fmwk.ko dwc3-msm.ko
+phy-qcom-ufs-qmp-v4-kalama.ko:
+qfprom-sys.ko:
+usb_bam.ko: sps_drv.ko
+leds-qti-flash.ko: qti_battery_charger.ko panel_event_notifier.ko pmic_glink.ko
+qcom-qpnp-qg.ko:
+hung_task_enh.ko:
+phy-qcom-ufs-qmp-v4-waipio.ko:
+qcom_iommu_debug.ko:
+qcom_ramdump.ko:
+msm-mmrm.ko:
+audio_pkt_dlkm.ko: audpkt_ion_dlkm.ko spf_core_dlkm.ko gpr_dlkm.ko snd_event_dlkm.ko q6_notifier_dlkm.ko q6_pdr_dlkm.ko
+lmh_cpu_vdd_cdev.ko:
+msm_sysstats.ko:
+stm_p_ost.ko: stm_core.ko
+msm_video.ko: msm-mmrm.ko mdt_loader.ko
+qcom_q6v5_pas.ko: qcom_ramdump.ko qcom_pil_info.ko qcom_q6v5.ko qcom_aoss.ko mdt_loader.ko
+cnss_prealloc.ko:
+fpc1020_platform_tee.ko:
+spi-msm-geni.ko:
+swr_ctrl_dlkm.ko: swr_dlkm.ko spf_core_dlkm.ko gpr_dlkm.ko snd_event_dlkm.ko q6_notifier_dlkm.ko q6_pdr_dlkm.ko
+leds-aw2016.ko:
+microdump_collector.ko: qcom_ramdump.ko
+coresight-csr.ko: coresight.ko
+qti_qmi_cdev.ko:
+altmode-glink.ko: pmic_glink.ko
+coresight-tmc.ko: usb_f_qdss.ko usb_bam.ko coresight-csr.ko dwc3-msm.ko coresight.ko sps_drv.ko
+rq_stats.ko:
+spmi-glink-debug.ko: pmic_glink.ko
+qcom-smb1355-charger.ko:
+msm_geni_serial.ko:
+nopmi-chg.ko: qcom-pmic-voter.ko xm_adapter_class.ko
+phy-msm-ssusb-qmp.ko:
+msm_kgsl.ko: msm_performance.ko qcom_va_minidump.ko qcom-dcvs.ko mdt_loader.ko
+reboot-mode.ko:
+cx_ipeak_cdev.ko:
+qcom_lpm.ko:
+gpr_dlkm.ko: snd_event_dlkm.ko q6_notifier_dlkm.ko q6_pdr_dlkm.ko
+serial_num.ko:
+msm_performance.ko:
+cdsprm.ko:
+wcd937x_slave_dlkm.ko: swr_dlkm.ko
+clk-rpm.ko: qcom_rpm.ko
+icc-test.ko:
+phy-xgene.ko:
+ehset.ko:
+fs1815_dlkm.ko:
+dispcc-khaje.ko:
+frpc-adsprpc.ko: qcom_ramdump.ko
+qcom-pon.ko: reboot-mode.ko
+mdt_loader.ko:
+qti_devfreq_cdev.ko:
+q6_pdr_dlkm.ko:
+xm_pd_adapter.ko: xm_adapter_class.ko tcpc_class.ko class-dual-role.ko
+coresight-replicator.ko: coresight.ko
+camera.ko: cx_ipeak.ko leds-qti-flash.ko qti_battery_charger.ko panel_event_notifier.ko pmic_glink.ko
+core_hang_detect.ko:
+qpnp-pdphy.ko:
+stm_nfc_i2c.ko:
+usb_f_ccid.ko:
+qcom-dcvs.ko:
+refgen.ko:
+stub_dlkm.ko:
+rmnet_ctl.ko: ipa_fmwk.ko
+bcl_pmic5.ko:
+rdbg.ko:
+class-dual-role.ko:
+goodix_ts_9896.ko: xiaomi_touch_game.ko lct_tp.ko nopmi-chg.ko qcom-pmic-voter.ko panel_event_notifier.ko xm_adapter_class.ko
+icnss2.ko: wlan_firmware_service.ko qcom_ramdump.ko
+heap_mem_ext_v01.ko:
+ln8000_charger.ko:
+ucsi_glink.ko: pmic_glink.ko
+stm_core.ko:
+bwmon.ko: qcom-dcvs.ko
+gsim.ko: qcom_va_minidump.ko
+rx_macro_dlkm.ko: swr_ctrl_dlkm.ko wcd_core_dlkm.ko bolero_cdc_dlkm.ko swr_dlkm.ko spf_core_dlkm.ko gpr_dlkm.ko snd_event_dlkm.ko q6_notifier_dlkm.ko q6_pdr_dlkm.ko
+boot_stats.ko:
+coresight-tpdm.ko: coresight.ko
+wcd937x_dlkm.ko: mbhc_dlkm.ko fsa4480-i2c.ko ucsi_glink.ko sipa_dlkm.ko wcd9xxx_dlkm.ko audio_prm_dlkm.ko aw87xxx_dlkm.ko fs1815_dlkm.ko wcd_core_dlkm.ko swr_dlkm.ko pmic_glink.ko spf_core_dlkm.ko gpr_dlkm.ko snd_event_dlkm.ko q6_notifier_dlkm.ko q6_pdr_dlkm.ko
+pd_policy_manager.ko: nopmi-chg.ko qcom-pmic-voter.ko xm_adapter_class.ko tcpc_class.ko class-dual-role.ko
+bq2589x_charger.ko: qcom-pmic-voter.ko tcpc_class.ko class-dual-role.ko
+coresight-tpda.ko: coresight.ko
+fsa4480-i2c.ko: ucsi_glink.ko pmic_glink.ko
+ipa_fmwk.ko:
+i2c-msm-geni.ko:
+qrng_dlkm.ko:
+sg.ko:
+q6_dlkm.ko:
+usb_f_cdev.ko:
+panel_event_notifier.ko:
+charger-ulog-glink.ko: pmic_glink.ko
+tcpc_class.ko: class-dual-role.ko
+cx_ipeak.ko:
+qcom-spmi-temp-alarm.ko:
+gpucc-khaje.ko:
+usb_f_diag.ko:
+btpower.ko: cnss_utils.ko
+leds-qpnp-vibrator-ldo-tz.ko:
+stm_ftrace.ko: stm_core.ko
+tz_log_dlkm.ko:
+va_macro_dlkm.ko: swr_ctrl_dlkm.ko wcd_core_dlkm.ko bolero_cdc_dlkm.ko swr_dlkm.ko spf_core_dlkm.ko gpr_dlkm.ko snd_event_dlkm.ko q6_notifier_dlkm.ko q6_pdr_dlkm.ko
+rmnet_wlan.ko: rmnet_core.ko rmnet_ctl.ko ipa_fmwk.ko
+qcom-vadc-common.ko:
+audpkt_ion_dlkm.ko:
+batt-ds28e16.ko: onewire_gpio.ko
+qcom_va_minidump.ko:
+snd_event_dlkm.ko:
+leds-gpio.ko:
+phy-qcom-ufs-qmp-v4.ko:
+qti_qmi_sensor.ko:
+smcinvoke_dlkm.ko: qseecom_dlkm.ko
+spidev.ko:
+qti_battery_debug.ko: pmic_glink.ko
+wsa881x_analog_dlkm.ko: wcd_core_dlkm.ko
+snd-usb-audio-qmi.ko:
+lct_tp.ko:
+qti_cpufreq_cdev.ko:
+bcl_soc.ko:
+spf_core_dlkm.ko: gpr_dlkm.ko snd_event_dlkm.ko q6_notifier_dlkm.ko q6_pdr_dlkm.ko
+cpumaxfreq.ko:
+pinctrl-spmi-gpio.ko:
+rtc-pm8xxx.ko:
+coresight-stm.ko: coresight.ko stm_core.ko
+coresight-hwevent.ko: coresight-csr.ko coresight.ko
+qcom-cpufreq-hw-debug.ko:
+dwc3-msm.ko:
+qti_userspace_cdev.ko:
+cdsp-loader.ko:
+qcom_pil_info.ko:
+machine_dlkm.ko: wcd937x_dlkm.ko mbhc_dlkm.ko fsa4480-i2c.ko ucsi_glink.ko sipa_dlkm.ko wcd9xxx_dlkm.ko audio_prm_dlkm.ko aw87xxx_dlkm.ko fs1815_dlkm.ko wcd_core_dlkm.ko bolero_cdc_dlkm.ko swr_dlkm.ko pmic_glink.ko audpkt_ion_dlkm.ko spf_core_dlkm.ko gpr_dlkm.ko snd_event_dlkm.ko q6_notifier_dlkm.ko q6_pdr_dlkm.ko
+hdcp_qseecom_dlkm.ko: qseecom_dlkm.ko
+msm_drm.ko: panel_event_notifier.ko qcom_va_minidump.ko
+swr_dlkm.ko:
+binder_prio.ko:
+qcom-pmic-voter.ko:
+aw87xxx_dlkm.ko: fs1815_dlkm.ko
+cpufreq_ondemand.ko:
+qpnp-smb5-main.ko:
+usb_f_qdss.ko: usb_bam.ko dwc3-msm.ko sps_drv.ko
+mi_thermal_interface.ko: panel_event_notifier.ko
+coresight-tgu.ko: coresight.ko
+phy-msm-snps-hs.ko:
+ipam.ko: gsim.ko qcom_va_minidump.ko ipa_fmwk.ko mdt_loader.ko
+msm_qmp.ko: qcom_aoss.ko
+rt_pd_manager.ko: tcpc_class.ko class-dual-role.ko
+msm_gpi.ko:
+cnss_nl.ko:
+phy-generic.ko:
+qrtr-smd.ko:
+bt_fm_slim.ko: btpower.ko cnss_utils.ko
+qcom-spmi-adc-tm5.ko: qcom-vadc-common.ko
+adsp_loader_dlkm.ko: spf_core_dlkm.ko gpr_dlkm.ko snd_event_dlkm.ko q6_notifier_dlkm.ko q6_pdr_dlkm.ko
+coresight-funnel.ko: coresight.ko
+leds-qti-tri-led.ko: pwm-qti-lpg.ko
+sps_drv.ko:
+coresight-remote-etm.ko: coresight.ko
+msm_memshare.ko: heap_mem_ext_v01.ko
+pinctrl_lpi_dlkm.ko: spf_core_dlkm.ko gpr_dlkm.ko snd_event_dlkm.ko q6_notifier_dlkm.ko q6_pdr_dlkm.ko
+qcom-spmi-adc5.ko: qcom-vadc-common.ko
+xiaomi_touch_game.ko:
+qcom-i2c-pmic.ko:
+bolero_cdc_dlkm.ko: spf_core_dlkm.ko gpr_dlkm.ko snd_event_dlkm.ko q6_notifier_dlkm.ko q6_pdr_dlkm.ko
+qcrypto-msm_dlkm.ko: qce50_dlkm.ko sps_drv.ko
+phy-qcom-emu.ko:
+rmnet_core.ko: rmnet_ctl.ko ipa_fmwk.ko
+ipa_clientsm.ko: rndisipam.ko ipam.ko gsim.ko qcom_va_minidump.ko ipa_fmwk.ko mdt_loader.ko
+coresight-cti.ko: coresight.ko
+wcd9xxx_dlkm.ko: audio_prm_dlkm.ko spf_core_dlkm.ko gpr_dlkm.ko snd_event_dlkm.ko q6_notifier_dlkm.ko q6_pdr_dlkm.ko
+f_fs_ipc_log.ko:
+thermal_pause.ko:
+wlan_firmware_service.ko:
+mmrm_test_module.ko: msm-mmrm.ko
+tx_macro_dlkm.ko: swr_ctrl_dlkm.ko wcd_core_dlkm.ko bolero_cdc_dlkm.ko swr_dlkm.ko spf_core_dlkm.ko gpr_dlkm.ko snd_event_dlkm.ko q6_notifier_dlkm.ko q6_pdr_dlkm.ko
+qti_battery_charger.ko: panel_event_notifier.ko pmic_glink.ko
+pinctrl-spmi-mpp.ko:
+mi_wmark.ko:
+wcd_core_dlkm.ko:
+sm5602_fg.ko: qcom-pmic-voter.ko
+onewire_gpio.ko:
+msm_lmh_dcvs.ko:
+regulator_cdev.ko:
+sc8551_charger.ko:
+glink_pkt.ko:
+qseecom_dlkm.ko:
+memlat.ko: qcom-dcvs.ko
+radio-i2c-rtc6226-qca.ko:
+focaltech_ts_i2c.ko: xiaomi_touch_game.ko lct_tp.ko nopmi-chg.ko qcom-pmic-voter.ko panel_event_notifier.ko xm_adapter_class.ko
+cnss_utils.ko:
+qcom_q6v5.ko:
+pwm-qti-lpg.ko:
+msm_sharedmem.ko:
+msm-tsens-driver.ko:
+stm_console.ko: stm_core.ko
+ipanetm.ko: ipam.ko gsim.ko qcom_va_minidump.ko ipa_fmwk.ko mdt_loader.ko
+pmic_glink.ko:

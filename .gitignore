@@ -1,0 +1,8 @@
+# Raw uncompressed partition images (>100MB exceeds GitHub limit)
+*.img
+
+# Large raw uncompressed ramdisks (>100MB)
+clean_twrp/ramdisk_raw.cpio
+clean_twrp/rd_check/
+ofox_work/
+hybrid_work/
