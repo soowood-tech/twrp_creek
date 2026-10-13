@@ -3,10 +3,10 @@
 Custom TeamWin Recovery Project (TWRP) build with full touch support and dynamic partitions for **Redmi (codename: `creek` / `creek_global`)** based on Qualcomm Snapdragon 680 (SM6225 / `khaje`).
 
 > [!WARNING]
-> ### 🛑 Статус проекта: Заброшен (Discontinued / Unmaintained)
-> **Проект не был доведён до конца и разработка остановлена.**
-> Все наработки, конфиги и патчи выложены «как есть» (AS-IS) в качестве справочного материала и базы для других разработчиков / мейнтейнеров. Обновления и поддержка не планируются.  
-> Если вы хотите продолжить разработку или довести порт до стабила — свободно форкайте репозиторий!
+> ### 🛑 Project Status: Discontinued / Unmaintained
+> **This project was left unfinished and is no longer actively maintained.**  
+> All sources, configs, and patches are provided **AS-IS** for reference and as a foundation for other developers or maintainers. No future updates, bug fixes, or user support will be provided.  
+> If you wish to continue development or bring this port to a fully stable state, feel free to fork this repository!
 
 ---
 
