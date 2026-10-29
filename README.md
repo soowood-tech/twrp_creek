@@ -1,6 +1,6 @@
-# TWRP Recovery for Redmi (Creek / Snapdragon 680 - SM6225)
+# TWRP Recovery for Redmi (Creek / Snapdragon 685 - SM6225)
 
-Custom TeamWin Recovery Project (TWRP) build with full touch support and dynamic partitions for **Redmi (codename: `creek` / `creek_global`)** based on Qualcomm Snapdragon 680 (SM6225 / `khaje`).
+Custom TeamWin Recovery Project (TWRP) build with full touch support and dynamic partitions for **Redmi (codename: `creek` / `creek_global`)** based on Qualcomm Snapdragon 685 (SM6225 / `khaje`).
 
 > [!WARNING]
 > ### 🛑 Project Status: Discontinued / Unmaintained
